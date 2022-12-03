@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     align-items: left;
-  	background-image: url('$lib/images/Image16.png');
+  	background-image: url('$lib/images/Image18.png');
     background-size: cover;
     color: black;
     padding: 330px;
